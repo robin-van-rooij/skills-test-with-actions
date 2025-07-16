@@ -7,6 +7,8 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
+[![CI](https://github.com/robin-van-rooij/skills-test-with-actions/actions/workflows/ci.yml/badge.svg?branch=ci)](https://github.com/robin-van-rooij/skills-test-with-actions/actions/workflows/ci.yml)
+
 # Test with Actions
 
 _Create workflows that enable you to use Continuous Integration (CI) for your projects._
