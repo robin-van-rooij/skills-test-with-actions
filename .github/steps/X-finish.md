@@ -3,6 +3,8 @@
   Review what we learned, ask for feedback, provide next steps.
 -->
 
+[![CI](https://github.com/robin-van-rooij/skills-test-with-actions/actions/workflows/ci.yml/badge.svg?branch=ci)](https://github.com/robin-van-rooij/skills-test-with-actions/actions/workflows/ci.yml)
+
 ## Finish
 
 _Congratulations friend, you've completed this course!_
